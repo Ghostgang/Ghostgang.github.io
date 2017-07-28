@@ -1,0 +1,106 @@
+.menyval1 
+body{	
+
+	background-image: url("bilder/pexels-photo-249798.png");
+
+}
+
+
+
+
+.Forums {
+	font-family: 'Cinzel', serif;
+    color: lightgreen;
+    font-size: 50px;
+
+}
+
+.Buynow {
+	font-family: 'Cinzel', serif;
+    color: lightgreen;
+    font-size: 50px;
+
+
+}
+
+.Support {
+	font-family: 'Cinzel', serif;
+    color: lightgreen;
+    font-size: 50px;
+
+}
+
+.text {
+font-family: 'Cinzel', serif;
+
+}
+.nav-pills li a {
+    font-family: Arial;
+    background-color: skyblue;
+    color: white;
+    font-size: 15px;
+}
+
+
+#Project_1 {
+   color: white;	
+}
+
+#Project_2 {
+   color: white;	
+}
+
+#Project_3 {
+
+	color: black;
+}
+
+
+.background-img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    position: relative;
+}
+
+#index-body {
+	background-image: url(http://wallpapercave.com/wp/bXWFwBT.jpg);
+}
+
+#forums-body {
+	background-image: url(http://stylishhdwallpapers.com/wp-content/uploads/2015/02/Chicago-City-Place-HD-Wallpaper.jpg);
+}
+
+#support-body {
+
+	background-image: url(http://www.voiceforpest.com/files/2017/01/support.jpg);
+	background-size: 320px 230px;
+	background-position: center;
+
+}
+
+#buynow-body {
+
+	background-image: url(https://i.ytimg.com/vi/-38idGW6bW8/hqdefault.jpg);
+
+}
+
+.kommentartext {
+    color: white;
+
+
+}
+
+#kommentarsbox {
+	background-color: rgba(0, 0, 0, 0.3);
+	height: 300px;
+	overflow-y: auto;
+	overflow-wrap: normal;
+	overflow-x: auto;
+	border: 3px solid black;
+	width: 500px;
+}
+
+#paypal {
+	height: 200px;
+}
